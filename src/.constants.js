@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1097240482:AAHapjhwTfWOMxFmwiasakzQJ-oUzsKkpyM',
+  TOKEN: '774972315:AAERP_nk5gVCjNekZoBCB_zIvMbF-tuoUp0',
   ARIA_SECRET: 'sam03',
   ARIA_DOWNLOAD_LOCATION: 'app/downloads',
   INDEX_DOMAIN:'https://goindex_samteam.sam-makkrkill.workers.dev/0:/',
